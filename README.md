@@ -1,2 +1,3 @@
 # ProjetoIC
-Site desenvolvido para disciplina de Introdução a computação
+Projeto desenvolvido na disciplina de Introdução a Computação. Consistiu em desenvolver um site pessoal para aplicar habilidades básicas
+com Html e CSS.
