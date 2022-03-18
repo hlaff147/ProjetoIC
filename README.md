@@ -1,2 +1,2 @@
-# ProjetoIC
-Projeto desenvolvido na disciplina de Introdução a Computação. Consistiu em desenvolver um site pessoal para aplicar habilidades básicas com Html e CSS.
+# Project IC(introduction to computing)
+Project developed in the discipline of Introduction to Computing. It consists of developing a personal website to apply basic skills with HTML and CSS. 
